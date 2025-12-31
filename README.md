@@ -1,2 +1,2 @@
 ### Languages & Tools
- [![My Skills](https://skillicons.dev/icons?i=linux,html,css,py,mysql,vim,neovim,git,github)](https://skillicons.dev)
+[![Skills](https://skills.syvixor.com/api/icons?i=linux,arch,git,github,html,css,sql,python,c,metasploit)](https://github.com/syvixor/skills-icons)
