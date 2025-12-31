@@ -10,8 +10,15 @@
  ## About Me
  - <p>Arch btw <img src="https://creazilla-store.fra1.digitaloceanspaces.com/icons/3243768/arch-linux-icon-md.png" width=16 alt="logo"/><br></p>
  - <p>FOSS Enthusiast</p>
-
-
+ 
+<br>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.me0wo.cc/api/top-langs/?username=kraken-503&title_color=F0F6FC&text_color=9198A1&icon_color=4493F8&border_color=656C7633&theme=transparent&border_radius=16&layout=compact&langs_count=8&custom_title=%E3%80%8CMost%20Used%20Languages%E3%80%8D&show_icons=true">
+ 
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.me0wo.cc/api/top-langs/?username=kraken-503&title_color=1F2328&text_color=59636E&icon_color=0969DA&border_color=818B981F&theme=transparent&border_radius=16&layout=compact&langs_count=8&custom_title=%E3%80%8CMost%20Used%20Languages%E3%80%8D&show_icons=true">
+  
+  <img alt="Top Languages" src="https://github-readme-stats.me0wo.cc/api/top-langs/?username=kraken-503&title_color=1F2328&text_color=59636E&icon_color=0969DA&border_color=818B981F&theme=transparent&border_radius=16&layout=compact&langs_count=8&custom_title=%E3%80%8CMost%20Used%20Languages%E3%80%8D&show_icons=true" width="32%" />
+</picture>
  
 <p align="center">
  <picture><img src="https://capsule-render.vercel.app/api?type=waving&height=90&color=timeGradient&section=footer" alt="wave"/> </picture>
