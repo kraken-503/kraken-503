@@ -3,7 +3,7 @@
 </p>
 
 ### Languages & Tools
-[![Skills](https://skills.syvixor.com/api/icons?i=linux,arch,android,vim,neovim,git,github,html,css,sql,python,c,metasploit)](https://github.com/syvixor/skills-icons)
+[![Skills](https://skills.syvixor.com/api/icons?i=linux,arch,android,vim,neovim,git,github,html,css,sql,bash,python,c,metasploit)](https://github.com/syvixor/skills-icons)
 
 <br>
 
