@@ -13,7 +13,7 @@
  
 <br>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.me0wo.cc/api/top-langs/?username=kraken-503&title_color=F0F6FC&text_color=9198A1&icon_color=4493F8&border_color=656C7633&theme=transparent&border_radius=16&langs_count=8&custom_title=%E3%80%8CMost%20Used%20Languages%E3%80%8D&show_icons=true">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.me0wo.cc/api/top-langs/?username=kraken-503&title_color=F0F6FC&text_color=9198A1&icon_color=4493F8&border_color=656C7633&theme=transparent&border_radius=16&langs_count=5&custom_title=%E3%80%8CMost%20Used%20Languages%E3%80%8D&show_icons=true">
  
   <img alt="Top Languages" src="https://github-readme-stats.me0wo.cc/api/top-langs/?username=kraken-503" />
 </picture>
