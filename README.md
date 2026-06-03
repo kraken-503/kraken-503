@@ -4,7 +4,7 @@
 
 
  <code>$ whoami</code>
- - <p>Arch btw <img src="https://creazilla-store.fra1.digitaloceanspaces.com/icons/3243768/arch-linux-icon-md.png" width=16 alt="logo"/><br></p>
+ - <p>Arch btw <img src="" alt="logo"/><br></p>
  - <p>FOSS Enthusiast</p>
  - <p>Just a random guy</p>
 <br><br>
