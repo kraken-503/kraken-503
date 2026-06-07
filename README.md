@@ -2,7 +2,6 @@
  <picture><img src="https://capsule-render.vercel.app/api?type=waving&height=90&color=timeGradient&section=header" alt="wave"/> </picture>
 </p>
 
-
  <code>$ whoami</code>
  - <p>Arch btw <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/arch-linux.png" alt="logo" width=14> <br></p>
  - <p>FOSS Enthusiast</p>
