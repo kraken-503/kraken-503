@@ -3,9 +3,8 @@
 </p>
 
  <code>$ whoami</code>
- - <p>Arch btw <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/arch-linux.png" alt="logo" width=14> <br></p>
- - <p>FOSS Enthusiast</p>
- - <p>Just a random guy</p>
+  ##### <p>Computer Science student and cybersecurity enthusiast dedicated to software and hardware exploration.<p> Daily driving Arch Linux with Hyprland. When I’m not auditing code or tinkering with systems, I'm gaming or listening to music.</p></p>
+  
 <br><br>
 <code>$ cat tech_stack.txt </code>
 <br>
@@ -20,7 +19,7 @@
   <img alt="Top Languages" src="https://github-readme-stats-zeta-dusky-hdnl89renb.vercel.app/api/top-langs/?username=kraken-503" />
 </picture>
 <br><br>
-<code>:wq</code>
+<code>:wq (YES, vim rules!)</code>
 
 <p align="center">
  <picture><img src="https://capsule-render.vercel.app/api?type=waving&height=90&color=timeGradient&section=footer" alt="wave"/> </picture>
