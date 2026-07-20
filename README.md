@@ -27,7 +27,7 @@
 
 **Languages**
 
-[![Skills](https://skills.syvixor.com/api/icons?i=html,css,sql,bash,lua,python,c)](https://github.com/syvixor/skills-icons)
+[![Skills](https://skills.syvixor.com/api/icons?i=html,css,javascript,sql,bash,lua,python,c,)](https://github.com/syvixor/skills-icons)
 
 
 <br><br>
