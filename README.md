@@ -1,4 +1,4 @@
-<p align="center">
+
  <picture><img src="https://capsule-render.vercel.app/api?type=waving&height=90&color=timeGradient&section=header" alt="wave"/> </picture>
 </p>
 
@@ -37,6 +37,9 @@
   <br>
   <img alt="Top Languages" src="https://github-stats-extended.vercel.app/api/top-langs/?username=kraken-503" />
 </picture>
+<br><br>
+
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=kraken-503&show_icons=true&theme=codeSTACKr)](https://github.com/stats-organization/github-stats-extended)
 
 <br><br>
 <code>:wq (YES, vim rules!)</code>
