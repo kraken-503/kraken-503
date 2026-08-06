@@ -15,7 +15,7 @@
 
 **Operating Systems & Distros**
 
-[![Skills](https://skills.syvixor.com/api/icons?i=linux,arch,kali,redhat,android)](https://github.com/syvixor/skills-icons)
+[![Skills](https://skills.syvixor.com/api/icons?i=linux,arch,debian,parrotos,kali,redhat,android)](https://github.com/syvixor/skills-icons)
 
 ---
 
