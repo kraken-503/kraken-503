@@ -39,7 +39,7 @@
 </picture>
 <br><br>
 
-[![GitHub Stats](https://github-stats-extended-frontend-coral-three.vercel.app/api?username=kraken-503&show_icons=true&theme=codeSTACKr&rank_icon=github&include_all_commits=true&custom_title=kraken-503%27s+Stats&disable_animations=false&number_format=long&show=prs_merged_percentage,prs_reviewed)](https://github.com/stats-organization/github-stats-extended)
+[![GitHub Stats](https://github-stats-extended-frontend-coral-three.vercel.app/api?username=kraken-503&show_icons=true&theme=codeSTACKr&rank_icon=rank&include_all_commits=true&custom_title=kraken-503%27s+Stats&disable_animations=false&number_format=long&show=prs_merged_percentage,prs_reviewed)](https://github.com/stats-organization/github-stats-extended)
 
 <br><br>
 <code>:wq (YES, vim rules!)</code>
